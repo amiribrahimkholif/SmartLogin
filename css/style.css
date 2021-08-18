@@ -7,13 +7,14 @@ body {
 }
 .login-form {
   background-color: rgb(36, 53, 63);
+  box-shadow: -5px 2px 54px -9px rgb(0 0 0);
 }
 .login-form .content h1 {
   color: #17a2b8;
 }
 .login-form .content input {
-    background-color: rgb(36, 53, 63);
-    color: #fff;
+  background-color: rgb(36, 53, 63);
+  color: #fff;
 }
 .login-form p {
   color: #fff;
@@ -24,10 +25,17 @@ body {
   color: #fff;
 }
 .login-form a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
+}
+.bar
+{
+  box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+.navbar {
+  box-shadow: 0px 0px 54px 0px rgb(0 0 0);
 }
 #hello {
   color: #17a2b8;
   font-size: 70px;
+ 
 }
-
