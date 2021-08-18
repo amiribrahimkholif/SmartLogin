@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(36, 53, 63);
+  font-family: "Titillium Web", sans-serif;
+}
+.w-90 {
+  width: 60%;
+}
+.login-form {
+  background-color: rgb(36, 53, 63);
+}
+.login-form .content h1 {
+  color: #17a2b8;
+}
+.login-form .content input {
+    background-color: rgb(36, 53, 63);
+    color: #fff;
+}
+.login-form p {
+  color: #fff;
+}
+
+.login-form a {
+  text-decoration: none;
+  color: #fff;
+}
+.login-form a:hover {
+    text-decoration: underline;
+}
+#hello {
+  color: #17a2b8;
+  font-size: 70px;
+}
+
